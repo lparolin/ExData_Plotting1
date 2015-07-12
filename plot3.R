@@ -1,4 +1,4 @@
-# Creates plot 1 for the assignmen
+# Creates plot 3 for the assignment
 # Data are supposed to be in the same folder where the code is run
 
 # Load everything in memory first
